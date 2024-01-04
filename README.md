@@ -3,7 +3,7 @@
 ### SOBRE O PROJETO:
 Feito para esudar DOM com JavaScript.
 
-Tecnologias usadas:
+### TECNOLOGIAS USADAS:
 * HTML5
 * JavaScript
 * Bootstrap 5
